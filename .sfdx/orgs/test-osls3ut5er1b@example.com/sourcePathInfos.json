@@ -35,13 +35,12 @@
             "sourcePath": "/home/jorge/GIT/Pokeatroz1demuchos/force-app/main/default",
             "isDirectory": true,
             "size": 4096,
-            "modifiedTime": 1582183662807,
-            "changeTime": 1582183662807,
-            "contentHash": "7334b1e8716ee057f8863fce77d3933d5bd9d984",
+            "modifiedTime": 1582744384993,
+            "changeTime": 1582744384993,
+            "contentHash": "a21009004cd572d890d65233421722a21fcb20a4",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "isWorkspace": false
         }
     ],
     [
@@ -50,13 +49,12 @@
             "sourcePath": "/home/jorge/GIT/Pokeatroz1demuchos/force-app/main/default/aura",
             "isDirectory": true,
             "size": 4096,
-            "modifiedTime": 1582616286482,
-            "changeTime": 1582616286482,
-            "contentHash": "9f95b1c5b8cd117d2d05c1f76b8bbf4d15449ca2",
+            "modifiedTime": 1582714228515,
+            "changeTime": 1582714228515,
+            "contentHash": "552c3037b6e8281bd0aad595fd1703953218a789",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "isWorkspace": false
         }
     ],
     [
@@ -92,15 +90,15 @@
     [
         "/home/jorge/GIT/Pokeatroz1demuchos/force-app/main/default/aura/Componente1/Componente1.cmp",
         {
-            "state": "u",
             "sourcePath": "/home/jorge/GIT/Pokeatroz1demuchos/force-app/main/default/aura/Componente1/Componente1.cmp",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 1473,
-            "modifiedTime": 1582705689520,
+            "modifiedTime": 1582714287882,
             "changeTime": 1582705689520,
-            "isWorkspace": false,
-            "contentHash": "d3d28158925a9c973f79aedd6a59eeb0d097e03a"
+            "contentHash": "d3d28158925a9c973f79aedd6a59eeb0d097e03a",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
@@ -182,10 +180,10 @@
         {
             "sourcePath": "/home/jorge/GIT/Pokeatroz1demuchos/force-app/main/default/aura/Componente1/Componente1Helper.js",
             "isDirectory": false,
-            "size": 765,
-            "modifiedTime": 1582702635140,
-            "changeTime": 1582702635140,
-            "contentHash": "7730eaf40e7a0308bbc1dbe4849544734e13e490",
+            "size": 1035,
+            "modifiedTime": 1582757898784,
+            "changeTime": 1582757601719,
+            "contentHash": "f61b4cf105c146d2bac159e4a6f05a3514454e7f",
             "isMetadataFile": false,
             "state": "u",
             "isWorkspace": false
@@ -226,14 +224,13 @@
         {
             "sourcePath": "/home/jorge/GIT/Pokeatroz1demuchos/force-app/main/default/aura/PokeatrozApp/PokeatrozApp.app",
             "isDirectory": false,
-            "size": 61,
-            "modifiedTime": 1582185371937,
-            "changeTime": 1582185371937,
-            "contentHash": "5c6c0c7c8ad28a677e32c6c224bdf9eb4d29a9af",
+            "size": 141,
+            "modifiedTime": 1582746088396,
+            "changeTime": 1582746088396,
+            "contentHash": "1efbaa413792f190146c6f9a8d4c6fafcf58c34e",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "isWorkspace": false
         }
     ],
     [
@@ -361,13 +358,220 @@
             "sourcePath": "/home/jorge/GIT/Pokeatroz1demuchos",
             "isDirectory": true,
             "size": 4096,
-            "modifiedTime": 1582183685347,
-            "changeTime": 1582183685347,
-            "contentHash": "482aba1731d0a586e52ba05892f68b26d69ba4fe",
+            "modifiedTime": 1582723634060,
+            "changeTime": 1582723634060,
+            "contentHash": "62533bf04610bd2b3dd430aef44fc35fe8f23ec0",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": true,
-            "isArtifactRoot": false
+            "isWorkspace": true
+        }
+    ],
+    [
+        "/home/jorge/GIT/Pokeatroz1demuchos/force-app/main/default/classes",
+        {
+            "sourcePath": "/home/jorge/GIT/Pokeatroz1demuchos/force-app/main/default/classes",
+            "isDirectory": true,
+            "size": 4096,
+            "modifiedTime": 1582747397770,
+            "changeTime": 1582747397770,
+            "contentHash": "cd2898d016857686ee69b7ba414e8abafb659c59",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/home/jorge/GIT/Pokeatroz1demuchos/force-app/main/default/aura/Componente2",
+        {
+            "sourcePath": "/home/jorge/GIT/Pokeatroz1demuchos/force-app/main/default/aura/Componente2",
+            "isDirectory": true,
+            "size": 4096,
+            "modifiedTime": 1582712430612,
+            "changeTime": 1582712430612,
+            "contentHash": "53da9edde0a9d13bdd6cad0571da0f21d0ea2f9f",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/home/jorge/GIT/Pokeatroz1demuchos/force-app/main/default/aura/myEvent",
+        {
+            "sourcePath": "/home/jorge/GIT/Pokeatroz1demuchos/force-app/main/default/aura/myEvent",
+            "isDirectory": true,
+            "size": 4096,
+            "modifiedTime": 1582712224424,
+            "changeTime": 1582712224424,
+            "contentHash": "cf8bd3c51740ea925d0bc3a3fea57aa6b2df2fb1",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/home/jorge/GIT/Pokeatroz1demuchos/force-app/main/default/classes/Controlador.cls",
+        {
+            "sourcePath": "/home/jorge/GIT/Pokeatroz1demuchos/force-app/main/default/classes/Controlador.cls",
+            "isDirectory": false,
+            "size": 507,
+            "modifiedTime": 1582757942757,
+            "changeTime": 1582756885575,
+            "contentHash": "ffc1bbee68f6cd6833a9df100f6c84b14fec6805",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/home/jorge/GIT/Pokeatroz1demuchos/force-app/main/default/classes/Controlador.cls-meta.xml",
+        {
+            "sourcePath": "/home/jorge/GIT/Pokeatroz1demuchos/force-app/main/default/classes/Controlador.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1582744388005,
+            "changeTime": 1582744388137,
+            "contentHash": "50701282159e2679109ad6da2dfbb354eca50ce0",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/home/jorge/GIT/Pokeatroz1demuchos/force-app/main/default/aura/Componente2/Componente2.auradoc",
+        {
+            "sourcePath": "/home/jorge/GIT/Pokeatroz1demuchos/force-app/main/default/aura/Componente2/Componente2.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1582712430612,
+            "changeTime": 1582712430612,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/home/jorge/GIT/Pokeatroz1demuchos/force-app/main/default/aura/Componente2/Componente2.cmp",
+        {
+            "sourcePath": "/home/jorge/GIT/Pokeatroz1demuchos/force-app/main/default/aura/Componente2/Componente2.cmp",
+            "isDirectory": false,
+            "size": 1113,
+            "modifiedTime": 1582748898622,
+            "changeTime": 1582748898622,
+            "contentHash": "738783ba7c7953a127b01f0edf3b37a8384704e5",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/home/jorge/GIT/Pokeatroz1demuchos/force-app/main/default/aura/Componente2/Componente2.cmp-meta.xml",
+        {
+            "sourcePath": "/home/jorge/GIT/Pokeatroz1demuchos/force-app/main/default/aura/Componente2/Componente2.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1582712430608,
+            "changeTime": 1582712430608,
+            "contentHash": "424027deabb738d5b64aa2e2ccb076bc229a985c",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/home/jorge/GIT/Pokeatroz1demuchos/force-app/main/default/aura/Componente2/Componente2.css",
+        {
+            "sourcePath": "/home/jorge/GIT/Pokeatroz1demuchos/force-app/main/default/aura/Componente2/Componente2.css",
+            "isDirectory": false,
+            "size": 10,
+            "modifiedTime": 1582712430612,
+            "changeTime": 1582712430612,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/home/jorge/GIT/Pokeatroz1demuchos/force-app/main/default/aura/Componente2/Componente2.design",
+        {
+            "sourcePath": "/home/jorge/GIT/Pokeatroz1demuchos/force-app/main/default/aura/Componente2/Componente2.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1582712430612,
+            "changeTime": 1582712430612,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/home/jorge/GIT/Pokeatroz1demuchos/force-app/main/default/aura/Componente2/Componente2.svg",
+        {
+            "sourcePath": "/home/jorge/GIT/Pokeatroz1demuchos/force-app/main/default/aura/Componente2/Componente2.svg",
+            "isDirectory": false,
+            "size": 664,
+            "modifiedTime": 1582712430612,
+            "changeTime": 1582712430612,
+            "contentHash": "6a3a9c1d5556db4bde25af9ef0957c47feb17739",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/home/jorge/GIT/Pokeatroz1demuchos/force-app/main/default/aura/Componente2/Componente2Controller.js",
+        {
+            "state": "u",
+            "sourcePath": "/home/jorge/GIT/Pokeatroz1demuchos/force-app/main/default/aura/Componente2/Componente2Controller.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 753,
+            "modifiedTime": 1582757962271,
+            "changeTime": 1582757962271,
+            "contentHash": "7313d9abdfec13e52cfe9bf8cbf35ffa1472e383"
+        }
+    ],
+    [
+        "/home/jorge/GIT/Pokeatroz1demuchos/force-app/main/default/aura/Componente2/Componente2Helper.js",
+        {
+            "sourcePath": "/home/jorge/GIT/Pokeatroz1demuchos/force-app/main/default/aura/Componente2/Componente2Helper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1582712430612,
+            "changeTime": 1582712430612,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/home/jorge/GIT/Pokeatroz1demuchos/force-app/main/default/aura/Componente2/Componente2Renderer.js",
+        {
+            "sourcePath": "/home/jorge/GIT/Pokeatroz1demuchos/force-app/main/default/aura/Componente2/Componente2Renderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1582712430612,
+            "changeTime": 1582712430612,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/home/jorge/GIT/Pokeatroz1demuchos/force-app/main/default/aura/myEvent/myEvent.evt",
+        {
+            "sourcePath": "/home/jorge/GIT/Pokeatroz1demuchos/force-app/main/default/aura/myEvent/myEvent.evt",
+            "isDirectory": false,
+            "size": 123,
+            "modifiedTime": 1582746656654,
+            "changeTime": 1582746656654,
+            "contentHash": "def19ac613a6ca147c479cd1e4a6c7676181be01",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/home/jorge/GIT/Pokeatroz1demuchos/force-app/main/default/aura/myEvent/myEvent.evt-meta.xml",
+        {
+            "sourcePath": "/home/jorge/GIT/Pokeatroz1demuchos/force-app/main/default/aura/myEvent/myEvent.evt-meta.xml",
+            "isDirectory": false,
+            "size": 223,
+            "modifiedTime": 1582712224424,
+            "changeTime": 1582712224424,
+            "contentHash": "b22bb8b080b0ed1f38c022b55ab5c2f9778087ef",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ]
 ]

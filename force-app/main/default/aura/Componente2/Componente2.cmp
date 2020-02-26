@@ -1,10 +1,11 @@
-<aura:component>
+<aura:component controller="Controlador" access="global">
     <aura:attribute name="model" type="String" />
     <aura:attribute name="color" type="String" />
     <aura:attribute name="price" type="String" />
     <aura:attribute name="concessionarie" type="Object[]" />
-    <aura:handler name="init" value="{!this}" action="{!c.doInit}" />
-    <div>
+    
+    <div class="c-container">
+        <lightning:button label="llamar a Aura Controller" onclick="{!c.callAuraMethod}"/>
         <table>
             <tr>
                 <td>Modelo</td>
